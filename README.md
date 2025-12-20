@@ -43,6 +43,8 @@ Bridge rectifier with filter:
 
 
 TABULAR COLUMN
+
+
 Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
