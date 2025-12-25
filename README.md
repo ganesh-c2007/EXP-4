@@ -44,7 +44,6 @@ Bridge rectifier with filter:
 
 
 TABULAR COLUMN
-
 <img width="660" height="839" alt="502387035-1838b64b-405e-4a50-b22a-15c5eda0d2c3" src="https://github.com/user-attachments/assets/4bcbf39c-927a-4e04-8c01-86b726bdb452" />
 
 
@@ -57,8 +56,6 @@ TABULAR COLUMN
 Rectifier with filter
 <img width="570" height="151" alt="502387922-86852ddb-f350-4213-b02e-b23cd83eac84" src="https://github.com/user-attachments/assets/ac515cf3-4cca-4322-9a90-1c6b860a1789" />
 WAVEFORM:
-
-
 <img width="367" height="208" alt="502388575-eff0671b-c6eb-4870-9900-fba6def1b096" src="https://github.com/user-attachments/assets/607be862-5442-45c1-98a8-80415a60b205" />
 
 
