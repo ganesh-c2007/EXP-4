@@ -40,18 +40,30 @@ Half wave rectifier with filter:
 ![502960200-d94c843b-7864-4ed5-843f-4774c564e3bf](https://github.com/user-attachments/assets/6e1570b3-3aff-466e-b977-dc466341390d)
 
 Bridge rectifier with filter:
+<img width="660" height="839" alt="502387035-1838b64b-405e-4a50-b22a-15c5eda0d2c3" src="https://github.com/user-attachments/assets/f1158975-f5da-4929-965b-95ef87da9bd2" />
 
 
 TABULAR COLUMN
+
+<img width="660" height="839" alt="502387035-1838b64b-405e-4a50-b22a-15c5eda0d2c3" src="https://github.com/user-attachments/assets/4bcbf39c-927a-4e04-8c01-86b726bdb452" />
+
 
 
 Rectifier without filter
+<img width="553" height="182" alt="502387868-e3f2dccc-3c52-4ac6-a543-d4d2571c2d92" src="https://github.com/user-attachments/assets/e27b4ab5-f7cb-4e72-af34-4f3a97ea86d9" />
+
+
 TABULAR COLUMN
 Rectifier with filter
-
+<img width="570" height="151" alt="502387922-86852ddb-f350-4213-b02e-b23cd83eac84" src="https://github.com/user-attachments/assets/ac515cf3-4cca-4322-9a90-1c6b860a1789" />
 WAVEFORM:
 
 
+<img width="367" height="208" alt="502388575-eff0671b-c6eb-4870-9900-fba6def1b096" src="https://github.com/user-attachments/assets/607be862-5442-45c1-98a8-80415a60b205" />
+
+
 RESULT:
+<img width="609" height="759" alt="502388405-5df12b0a-6093-4301-a282-ec80cb9c46d7" src="https://github.com/user-attachments/assets/379b9a42-03e1-4bdc-b087-9b55768db1be" />
+
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
